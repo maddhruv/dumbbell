@@ -1,0 +1,15 @@
+{
+  "name": "dumbbell",
+  "version": "0.0.1",
+  "description": "Do a bell :bell: after a dumb :black_joker:",
+  "main": "index.js",
+  "repository": "git@github.com:maddhruv/dumbbell.git",
+  "author": "maddhruv <dhruvjainpenny@gmail.com>",
+  "license": "Apache-2.0",
+  "bin": {
+    "bell": "./index.js"
+  },
+  "dependencies": {
+    "node-notifier": "^5.2.1"
+  }
+}
